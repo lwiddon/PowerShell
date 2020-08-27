@@ -7,8 +7,8 @@
 .OUTPUTS
 .NOTES
     Version       : 1.0
-    Author        : Lance Bailey
-    Creation Date : October 2017
+    Author        : 
+    Creation Date : 
     Purpose/Change:
             v1.0  - Original script.
 .EXAMPLE
